@@ -1,6 +1,6 @@
-package com.cs301w01.meatload.authentication.Controllers;
+package com.cs301w01.meatload.authentication.controllers;
 
-import com.cs301w01.meatload.authentication.Model.Password;
+import com.cs301w01.meatload.authentication.model.Password;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

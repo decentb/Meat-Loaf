@@ -1,10 +1,11 @@
-package com.cs301w01.meatload.authentication.Controllers;
+package com.cs301w01.meatload.authentication.controllers;
 
 import android.content.Context;
 import android.database.Cursor;
-import com.cs301w01.meatload.authentication.Model.Password;
-import com.cs301w01.meatload.authentication.Model.Patient;
-import com.cs301w01.meatload.authentication.Model.User;
+
+import com.cs301w01.meatload.authentication.model.Password;
+import com.cs301w01.meatload.authentication.model.Patient;
+import com.cs301w01.meatload.authentication.model.User;
 import com.cs301w01.meatload.authentication.querygenerator.DiagnosisQueryGenerator;
 import com.cs301w01.meatload.authentication.querygenerator.UserQueryGenerator;
 import com.cs301w01.meatload.controllers.FController;

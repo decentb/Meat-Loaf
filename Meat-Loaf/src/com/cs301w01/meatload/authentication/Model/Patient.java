@@ -1,4 +1,4 @@
-package com.cs301w01.meatload.authentication.Model;
+package com.cs301w01.meatload.authentication.model;
 
 import com.cs301w01.meatload.model.Album;
 
